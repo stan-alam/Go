@@ -43,3 +43,55 @@
 <a>
   <img src="https://github.com/stan-alam/Go/blob/develop/Go/ds-algoGo/images/01/ds-algGo%20-%2011.png" width="80%" height="80%">
 </a>
+
+<a>
+  <img src="https://github.com/stan-alam/Go/blob/develop/Go/ds-algoGo/images/01/ds-algGo%20-%2012.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Go/blob/develop/Go/ds-algoGo/images/01/ds-algGo%20-%2013.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Go/blob/develop/Go/ds-algoGo/images/01/ds-algGo%20-%2014.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Go/blob/develop/Go/ds-algoGo/images/01/ds-algGo%20-%2015.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Go/blob/develop/Go/ds-algoGo/images/01/ds-algGo%20-%2016A.png" width="80%" height="80%">
+</a>
+
+```Go
+//cb 16A-B
+```
+
+<a>
+  <img src="https://github.com/stan-alam/Go/blob/develop/Go/ds-algoGo/images/01/ds-algGo%20-%2016B.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Go/blob/develop/Go/ds-algoGo/images/01/ds-algGo%20-%2017.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Go/blob/develop/Go/ds-algoGo/images/01/ds-algGo%20-%2018.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Go/blob/develop/Go/ds-algoGo/images/01/ds-algGo%20-%2019.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Go/blob/develop/Go/ds-algoGo/images/01/ds-algGo%20-%2020A.png" width="80%" height="80%">
+</a>
+
+```Go
+// 18.A - 19.A
+```
+
+<a>
+  <img src="https://github.com/stan-alam/Go/blob/develop/Go/ds-algoGo/images/01/ds-algGo%20-%2020B.png" width="80%" height="80%">
+</a>
