@@ -52,6 +52,20 @@
   <img src="https://github.com/stan-alam/Go/blob/develop/Go/ds-algoGo/images/01/ds-algGo%20-%2013.png" width="80%" height="80%">
 </a>
 
+```go
+package main
+
+import  (
+  "fmt"
+)
+
+func powerSeries(x int) (int, int) {
+
+  return x * x,  x * x * x
+
+}
+```
+
 <a>
   <img src="https://github.com/stan-alam/Go/blob/develop/Go/ds-algoGo/images/01/ds-algGo%20-%2014.png" width="80%" height="80%">
 </a>
@@ -94,4 +108,12 @@
 
 <a>
   <img src="https://github.com/stan-alam/Go/blob/develop/Go/ds-algoGo/images/01/ds-algGo%20-%2020B.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Go/blob/develop/Go/ds-algoGo/images/01/ds-algGo%20-%2021.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Go/blob/develop/Go/ds-algoGo/images/01/ds-algGo%20-%2022.png" width="80%" height="80%">
 </a>
