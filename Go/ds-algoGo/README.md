@@ -103,7 +103,41 @@ func powerSeries(x int) (int, int) {
 </a>
 
 ```Go
-// 18.A - 19.A
+// 18.A
+package main
+
+import (
+  "fmt"
+)
+
+type IProcess interface {
+  process()
+}
+//adapter struct
+type Adapter struct {
+  adaptee Adaptee
+}
+```
+
+```go
+//19.A
+func (adapter Adapter) process() {
+    fmt.Println("Adapter Process")
+    adapter.adaptee.convert()
+}
+
+type Adaptee struct {
+  adapterType int
+}
+
+func (adaptee Adaptee) convert () {
+  fmt.Println("Adaptee convert method")
+}
+
+func main() {
+  var processor IProcess = Adapter{}
+  processor.process()
+}
 ```
 
 <a>
