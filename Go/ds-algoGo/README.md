@@ -87,7 +87,7 @@ func powerSeries(x int) (int, int) {
 </a>
 
 <a>
-  <img src="https://github.com/stan-alam/Go/blob/develop/Go/ds-algoGo/images/01/ds-algGo%20-%2017.png" width="80%" height="80%">
+  <img src="https://github.com/stan-alam/Go/blob/develop/Go/ds-algoGo/images/01/ds-algGo%20-%2017_e.png" width="80%" height="80%">
 </a>
 
 <a>
